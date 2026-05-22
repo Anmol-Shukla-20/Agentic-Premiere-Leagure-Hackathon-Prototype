@@ -1,0 +1,28 @@
+{
+  "summary": {
+    "total": 2,
+    "applied": 1,
+    "shortlisted": 1,
+    "interview": 0,
+    "hired": 0,
+    "rejected": 0
+  },
+  "outcomes": [
+    {
+      "candidate_id": "cand-001",
+      "job_id": "job-101",
+      "stage": "applied",
+      "status": "applied",
+      "updated_at": "2026-05-22T15:21:12Z",
+      "notes": "Auto-shared to best match"
+    },
+    {
+      "candidate_id": "cand-001",
+      "job_id": "job-101",
+      "stage": "interview",
+      "status": "shortlisted",
+      "updated_at": "2026-05-22T15:21:12Z",
+      "notes": "Recruiter requested screening"
+    }
+  ]
+}

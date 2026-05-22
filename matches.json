@@ -1,0 +1,340 @@
+{
+  "generated_at": "2026-05-22T15:21:12Z",
+  "results": {
+    "cand-001": [
+      {
+        "candidate_id": "cand-001",
+        "job_id": "job-101",
+        "score": 0.863,
+        "fit_label": "strong",
+        "diagnostics": {
+          "skill_overlap": 0.75,
+          "trade_alignment": 1.0,
+          "role_alignment": 1.0,
+          "experience_fit": 1.0,
+          "location_fit": 1.0,
+          "salary_fit": 1.0,
+          "matched_skill_count": 3.0,
+          "job_skill_count": 4.0
+        },
+        "outreach_message": "Subject: ITI Lucknow candidate recommendation for Maintenance Electrician\n\nHello Amausi Industrial Works,\n\nWe are sharing Aman Kumar, an ITI Lucknow graduate from the Electrician trade, based in Amausi, Lucknow. The candidate is a strong fit for 'Maintenance Electrician' at Amausi Industrial Works.\n\nMatch score: 86%\nRelevant skills: panel wiring, motor winding, troubleshooting, safety compliance, three phase wiring, multimeter use\nTarget role: maintenance electrician, industrial technician\nExperience: 1.5 years\nExpected salary: INR 18000\n\nIf you are open to a short screening call, we can share the profile and availability immediately.\n\nRegards,\nITI Lucknow Placement Agent",
+        "candidate": {
+          "candidate_id": "cand-001",
+          "name": "Aman Kumar",
+          "trade": "Electrician",
+          "institute": "ITI Lucknow",
+          "location": "Amausi, Lucknow",
+          "skills": [
+            "panel wiring",
+            "motor winding",
+            "troubleshooting",
+            "safety compliance",
+            "three phase wiring",
+            "multimeter use"
+          ],
+          "preferred_roles": [
+            "maintenance electrician",
+            "industrial technician"
+          ],
+          "expected_salary_inr": 18000,
+          "years_experience": 1.5
+        },
+        "job": {
+          "job_id": "job-101",
+          "title": "Maintenance Electrician",
+          "company": "Amausi Industrial Works",
+          "location": "Amausi, Lucknow",
+          "required_skills": [
+            "panel wiring",
+            "troubleshooting",
+            "motor winding",
+            "preventive maintenance"
+          ],
+          "preferred_trade": "Electrician",
+          "minimum_experience_years": 1.0,
+          "salary_min_inr": 16000,
+          "salary_max_inr": 22000,
+          "contact_email": "hr@amausiworks.example",
+          "source": "live-board"
+        }
+      },
+      {
+        "candidate_id": "cand-001",
+        "job_id": "job-103",
+        "score": 0.863,
+        "fit_label": "strong",
+        "diagnostics": {
+          "skill_overlap": 0.75,
+          "trade_alignment": 1.0,
+          "role_alignment": 1.0,
+          "experience_fit": 1.0,
+          "location_fit": 1.0,
+          "salary_fit": 1.0,
+          "matched_skill_count": 3.0,
+          "job_skill_count": 4.0
+        },
+        "outreach_message": "Subject: ITI Lucknow candidate recommendation for Industrial Technician\n\nHello Lucknow Assembly Unit,\n\nWe are sharing Aman Kumar, an ITI Lucknow graduate from the Electrician trade, based in Amausi, Lucknow. The candidate is a strong fit for 'Industrial Technician' at Lucknow Assembly Unit.\n\nMatch score: 86%\nRelevant skills: panel wiring, motor winding, troubleshooting, safety compliance, three phase wiring, multimeter use\nTarget role: maintenance electrician, industrial technician\nExperience: 1.5 years\nExpected salary: INR 18000\n\nIf you are open to a short screening call, we can share the profile and availability immediately.\n\nRegards,\nITI Lucknow Placement Agent",
+        "candidate": {
+          "candidate_id": "cand-001",
+          "name": "Aman Kumar",
+          "trade": "Electrician",
+          "institute": "ITI Lucknow",
+          "location": "Amausi, Lucknow",
+          "skills": [
+            "panel wiring",
+            "motor winding",
+            "troubleshooting",
+            "safety compliance",
+            "three phase wiring",
+            "multimeter use"
+          ],
+          "preferred_roles": [
+            "maintenance electrician",
+            "industrial technician"
+          ],
+          "expected_salary_inr": 18000,
+          "years_experience": 1.5
+        },
+        "job": {
+          "job_id": "job-103",
+          "title": "Industrial Technician",
+          "company": "Lucknow Assembly Unit",
+          "location": "Transport Nagar, Lucknow",
+          "required_skills": [
+            "three phase wiring",
+            "multimeter use",
+            "safety compliance",
+            "maintenance"
+          ],
+          "preferred_trade": "Electrician",
+          "minimum_experience_years": 1.0,
+          "salary_min_inr": 18000,
+          "salary_max_inr": 25000,
+          "contact_email": "careers@lucknowassembly.example",
+          "source": "live-board"
+        }
+      },
+      {
+        "candidate_id": "cand-001",
+        "job_id": "job-102",
+        "score": 0.296,
+        "fit_label": "weak",
+        "diagnostics": {
+          "skill_overlap": 0.0,
+          "trade_alignment": 0.0,
+          "role_alignment": 0.462,
+          "experience_fit": 1.0,
+          "location_fit": 1.0,
+          "salary_fit": 1.0,
+          "matched_skill_count": 0.0,
+          "job_skill_count": 3.0
+        },
+        "outreach_message": "Subject: ITI Lucknow candidate recommendation for Machine Operator\n\nHello North Star Manufacturing,\n\nWe are sharing Aman Kumar, an ITI Lucknow graduate from the Electrician trade, based in Amausi, Lucknow. The candidate is a strong fit for 'Machine Operator' at North Star Manufacturing.\n\nMatch score: 30%\nRelevant skills: panel wiring, motor winding, troubleshooting, safety compliance, three phase wiring, multimeter use\nTarget role: maintenance electrician, industrial technician\nExperience: 1.5 years\nExpected salary: INR 18000\n\nIf you are open to a short screening call, we can share the profile and availability immediately.\n\nRegards,\nITI Lucknow Placement Agent",
+        "candidate": {
+          "candidate_id": "cand-001",
+          "name": "Aman Kumar",
+          "trade": "Electrician",
+          "institute": "ITI Lucknow",
+          "location": "Amausi, Lucknow",
+          "skills": [
+            "panel wiring",
+            "motor winding",
+            "troubleshooting",
+            "safety compliance",
+            "three phase wiring",
+            "multimeter use"
+          ],
+          "preferred_roles": [
+            "maintenance electrician",
+            "industrial technician"
+          ],
+          "expected_salary_inr": 18000,
+          "years_experience": 1.5
+        },
+        "job": {
+          "job_id": "job-102",
+          "title": "Machine Operator",
+          "company": "North Star Manufacturing",
+          "location": "Chinhat, Lucknow",
+          "required_skills": [
+            "machine setup",
+            "quality check",
+            "material handling"
+          ],
+          "preferred_trade": "Fitter",
+          "minimum_experience_years": 0.5,
+          "salary_min_inr": 14000,
+          "salary_max_inr": 18000,
+          "contact_email": "jobs@northstar.example",
+          "source": "live-board"
+        }
+      }
+    ],
+    "cand-002": [
+      {
+        "candidate_id": "cand-002",
+        "job_id": "job-103",
+        "score": 0.452,
+        "fit_label": "possible",
+        "diagnostics": {
+          "skill_overlap": 0.25,
+          "trade_alignment": 0.0,
+          "role_alignment": 0.65,
+          "experience_fit": 1.0,
+          "location_fit": 1.0,
+          "salary_fit": 1.0,
+          "matched_skill_count": 1.0,
+          "job_skill_count": 4.0
+        },
+        "outreach_message": "Subject: ITI Lucknow candidate recommendation for Industrial Technician\n\nHello Lucknow Assembly Unit,\n\nWe are sharing Ritika Verma, an ITI Lucknow graduate from the Fitter trade, based in Charbagh, Lucknow. The candidate is a strong fit for 'Industrial Technician' at Lucknow Assembly Unit.\n\nMatch score: 45%\nRelevant skills: machine fitting, tool handling, assembly, quality inspection, measurement\nTarget role: machine operator, assembly technician\nExperience: 1.0 years\nExpected salary: INR 16000\n\nIf you are open to a short screening call, we can share the profile and availability immediately.\n\nRegards,\nITI Lucknow Placement Agent",
+        "candidate": {
+          "candidate_id": "cand-002",
+          "name": "Ritika Verma",
+          "trade": "Fitter",
+          "institute": "ITI Lucknow",
+          "location": "Charbagh, Lucknow",
+          "skills": [
+            "machine fitting",
+            "tool handling",
+            "assembly",
+            "quality inspection",
+            "measurement"
+          ],
+          "preferred_roles": [
+            "machine operator",
+            "assembly technician"
+          ],
+          "expected_salary_inr": 16000,
+          "years_experience": 1.0
+        },
+        "job": {
+          "job_id": "job-103",
+          "title": "Industrial Technician",
+          "company": "Lucknow Assembly Unit",
+          "location": "Transport Nagar, Lucknow",
+          "required_skills": [
+            "three phase wiring",
+            "multimeter use",
+            "safety compliance",
+            "maintenance"
+          ],
+          "preferred_trade": "Electrician",
+          "minimum_experience_years": 1.0,
+          "salary_min_inr": 18000,
+          "salary_max_inr": 25000,
+          "contact_email": "careers@lucknowassembly.example",
+          "source": "live-board"
+        }
+      },
+      {
+        "candidate_id": "cand-002",
+        "job_id": "job-102",
+        "score": 0.45,
+        "fit_label": "possible",
+        "diagnostics": {
+          "skill_overlap": 0.0,
+          "trade_alignment": 1.0,
+          "role_alignment": 1.0,
+          "experience_fit": 1.0,
+          "location_fit": 1.0,
+          "salary_fit": 1.0,
+          "matched_skill_count": 0.0,
+          "job_skill_count": 3.0
+        },
+        "outreach_message": "Subject: ITI Lucknow candidate recommendation for Machine Operator\n\nHello North Star Manufacturing,\n\nWe are sharing Ritika Verma, an ITI Lucknow graduate from the Fitter trade, based in Charbagh, Lucknow. The candidate is a strong fit for 'Machine Operator' at North Star Manufacturing.\n\nMatch score: 45%\nRelevant skills: machine fitting, tool handling, assembly, quality inspection, measurement\nTarget role: machine operator, assembly technician\nExperience: 1.0 years\nExpected salary: INR 16000\n\nIf you are open to a short screening call, we can share the profile and availability immediately.\n\nRegards,\nITI Lucknow Placement Agent",
+        "candidate": {
+          "candidate_id": "cand-002",
+          "name": "Ritika Verma",
+          "trade": "Fitter",
+          "institute": "ITI Lucknow",
+          "location": "Charbagh, Lucknow",
+          "skills": [
+            "machine fitting",
+            "tool handling",
+            "assembly",
+            "quality inspection",
+            "measurement"
+          ],
+          "preferred_roles": [
+            "machine operator",
+            "assembly technician"
+          ],
+          "expected_salary_inr": 16000,
+          "years_experience": 1.0
+        },
+        "job": {
+          "job_id": "job-102",
+          "title": "Machine Operator",
+          "company": "North Star Manufacturing",
+          "location": "Chinhat, Lucknow",
+          "required_skills": [
+            "machine setup",
+            "quality check",
+            "material handling"
+          ],
+          "preferred_trade": "Fitter",
+          "minimum_experience_years": 0.5,
+          "salary_min_inr": 14000,
+          "salary_max_inr": 18000,
+          "contact_email": "jobs@northstar.example",
+          "source": "live-board"
+        }
+      },
+      {
+        "candidate_id": "cand-002",
+        "job_id": "job-101",
+        "score": 0.296,
+        "fit_label": "weak",
+        "diagnostics": {
+          "skill_overlap": 0.0,
+          "trade_alignment": 0.0,
+          "role_alignment": 0.462,
+          "experience_fit": 1.0,
+          "location_fit": 1.0,
+          "salary_fit": 1.0,
+          "matched_skill_count": 0.0,
+          "job_skill_count": 4.0
+        },
+        "outreach_message": "Subject: ITI Lucknow candidate recommendation for Maintenance Electrician\n\nHello Amausi Industrial Works,\n\nWe are sharing Ritika Verma, an ITI Lucknow graduate from the Fitter trade, based in Charbagh, Lucknow. The candidate is a strong fit for 'Maintenance Electrician' at Amausi Industrial Works.\n\nMatch score: 30%\nRelevant skills: machine fitting, tool handling, assembly, quality inspection, measurement\nTarget role: machine operator, assembly technician\nExperience: 1.0 years\nExpected salary: INR 16000\n\nIf you are open to a short screening call, we can share the profile and availability immediately.\n\nRegards,\nITI Lucknow Placement Agent",
+        "candidate": {
+          "candidate_id": "cand-002",
+          "name": "Ritika Verma",
+          "trade": "Fitter",
+          "institute": "ITI Lucknow",
+          "location": "Charbagh, Lucknow",
+          "skills": [
+            "machine fitting",
+            "tool handling",
+            "assembly",
+            "quality inspection",
+            "measurement"
+          ],
+          "preferred_roles": [
+            "machine operator",
+            "assembly technician"
+          ],
+          "expected_salary_inr": 16000,
+          "years_experience": 1.0
+        },
+        "job": {
+          "job_id": "job-101",
+          "title": "Maintenance Electrician",
+          "company": "Amausi Industrial Works",
+          "location": "Amausi, Lucknow",
+          "required_skills": [
+            "panel wiring",
+            "troubleshooting",
+            "motor winding",
+            "preventive maintenance"
+          ],
+          "preferred_trade": "Electrician",
+          "minimum_experience_years": 1.0,
+          "salary_min_inr": 16000,
+          "salary_max_inr": 22000,
+          "contact_email": "hr@amausiworks.example",
+          "source": "live-board"
+        }
+      }
+    ]
+  }
+}
