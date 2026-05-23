@@ -67,14 +67,6 @@ After running Streamlit, open the local URL shown in the terminal, usually:
 http://localhost:8501
 ```
 
-## 6. Known Limitations and Incomplete Features
-
-- The login/signup flow is demo-only and does not use a real authentication backend.
-- Job feeds are currently source-tagged demo entries, not live API connectors or scrapers.
-- User profile data is saved in the current Streamlit session and is not yet stored in a database.
-- The CSV evaluation mode is an offline benchmark, not a live model-training pipeline.
-- Recruiter outreach is drafted text only; email/WhatsApp sending is not integrated yet.
-
 ## Project Flow
 
 1. The user opens the browser UI and signs up or logs in.
@@ -97,15 +89,4 @@ http://localhost:8501
 - `iti_placement_agent/engine.py` - scoring, matching, outreach, and outcome tracking
 - `iti_placement_agent/dashboard.py` - dashboard helpers for the legacy UI path
 - `iti_placement_agent/app.py` - command-line entry point and run modes
-- `iti_placement_agent/job_sources.py` - source-tagged demo jobs from portals and company feeds
-
-## Demo Notes
-
-For a good video demo, show these steps:
-
-1. Open the login/signup page.
-2. Sign in to enter the dashboard.
-3. Show the left sidebar profile section and save a user profile.
-4. Show how the similar jobs reorder when the profile details change.
-5. Highlight the source labels for company portals, Unstop, CourseJoiner, and government sources.
-6. Open the outreach draft and explain how the agent communicates on behalf of the candidate.
+- `iti_placement_agent/job_sources.py` - source-tagged demo jobs from portals and company feeds.
