@@ -1,7 +1,6 @@
 # ITI Lucknow Placement Agent
 
-## 1. Team Name and Members
-
+## 1. Team Name
 Team name: Lucknow_Developers_Giants
 
 ## 2. Project Title and Short Description
