@@ -4,9 +4,6 @@
 
 Team name: Lucknow_Developers_Giants
 
-Members / GitHub handles:
-- Anmol Shukla/ https://github.com/Anmol-Shukla-20
-
 ## 2. Project Title and Short Description
 
 ITI Lucknow Placement Agent is a browser-based job-matching system for ITI graduates. It helps students save their profile, match their skills to similar jobs, and see relevant openings from multiple sources in a clean dashboard. The app also drafts outreach messages and tracks placement progress so the process feels closer to a real placement assistant.
