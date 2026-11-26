@@ -7,7 +7,7 @@ Team name: Lucknow_Developers_Giants
 
 ITI Lucknow Placement Agent is a browser-based job-matching system for ITI graduates. It helps students save their profile, match their skills to similar jobs, and see relevant openings from multiple sources in a clean dashboard. The app also drafts outreach messages and tracks placement progress so the process feels closer to a real placement assistant.
 
-## 3. Problem Statement Addressed
+## 3. Problem Statement(PS) Addressed:
 
 PS-04 - Skill-to-job matching agent for ITI Lucknow graduates.
 
